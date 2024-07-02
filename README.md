@@ -14,8 +14,6 @@ Skills: React/Mongodb/NodeJS/Firebase/JavaScript/Tailwind CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EngrMunir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/engrmunir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Smsirajulmonir)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngrMunir)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EngrMunir&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=EngrMunir)  
