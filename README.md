@@ -6,7 +6,6 @@ I am a Jr. Front-End developer (MERN). I have learned Web technologies like HTML
 
 The main area of my interest lies in Web-developing to build my career as good web-developer. I am always looking for new challenges and opportunities to develop my skills and knowledge. I am excited to see where my passion for Web development will take me.
 
-Skills: React/Mongodb/NodeJS/Firebase/JavaScript/Tailwind CSS
 <h2>🚀 My Skills</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
