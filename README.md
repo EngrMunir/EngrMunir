@@ -23,7 +23,7 @@ The main area of my interest lies in Web-developing to build my career as good w
 </p>
 
 
-- 🌱 I’m currently learning NextJS 
+- 🌱 I’m currently learning MySQL
 - 💬 Ask me about React NextJS NodeJs ExpressJs Mongodb JavaScript Typescript
 
 
