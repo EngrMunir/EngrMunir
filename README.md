@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Md Sirajul Munir
-#### I am a MERN Stack Developer
+#### I am a Full Stack Developer
 ![I am a MERN Stack Developer](https://i.ibb.co/qyCCBkp/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-I am a Jr. MERN Stack Developer. I have learned Web technologies like React, Next JS, Express JS, Nodejs, JavaScript, Typescript, MongoDb, Redux, RTK Query, HTML5, CSS3, Tailwind CSS, Bootstrap, JWT, Axios Interceptor, Firebase, REST APIs, Expertise With Popular NPM Packages, MaterialUI, Ant-Design, ShadcnUI, Figma, Vercel, Netlify, cpanel etc. I have also good knowledge about Version control (Git), IT fundamentals.
+I am a Jr. Full Stack Developer. I have learned Web technologies like React, Next JS, Express JS, Nodejs, JavaScript, Typescript, MongoDb, Mongoose, Postgres, Prisma, MySQL Redux, RTK Query, HTML5, CSS3, Tailwind CSS, Bootstrap, JWT, Axios Interceptor, Firebase, REST APIs, Expertise With Popular NPM Packages, MaterialUI, Ant-Design, ShadcnUI, Figma, Vercel, Netlify, cpanel etc. I have also good knowledge about Version control (Git), IT fundamentals.
 
 The main area of my interest lies in Web-developing to build my career as good web-developer. I am always looking for new challenges and opportunities to develop my skills and knowledge. I am excited to see where my passion for Web development will take me.
 
@@ -23,8 +23,8 @@ The main area of my interest lies in Web-developing to build my career as good w
 </p>
 
 
-- 🌱 I’m currently learning MySQL
-- 💬 Ask me about React NextJS NodeJs ExpressJs Mongodb JavaScript Typescript
+- 🌱 I’m currently learning Docker
+- 💬 Ask me about React NextJS NodeJs ExpressJs Mongodb JavaScript Typescript Postgres Prisma MySQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EngrMunir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/engrmunir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Smsirajulmonir)  
