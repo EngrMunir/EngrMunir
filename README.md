@@ -27,6 +27,9 @@ Open to Backend Developer opportunities.
 </p>
 
 - 💬 Ask me about React NextJS NodeJs ExpressJs Mongodb JavaScript Typescript Postgres Prisma MySQL
+- 💼 Full Stack Developer at Software Elevate
+
+🔍 Open to Backend Developer Opportunities
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EngrMunir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/engrmunir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Smsirajulmonir)  
