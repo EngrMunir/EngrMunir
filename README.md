@@ -2,8 +2,6 @@
 #### Backend-Focused Full Stack Developer
 ![Backend-Focused Full Stack Developer](https://i.ibb.co/qyCCBkp/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-Backend-Focused Full Stack Developer
-
 ⚡ Node.js | NestJS | TypeScript | PostgreSQL | Prisma | Redis | Docker | React | Nextjs
 
 2+ year of professional experience building scalable APIs and web applications. Passionate about backend engineering, clean architecture, and system design.
