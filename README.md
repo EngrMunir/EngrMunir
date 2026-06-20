@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Md Sirajul Munir
 #### Backend-Focused Full Stack Developer
-![I am a MERN Stack Developer](https://i.ibb.co/qyCCBkp/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![Backend-Focused Full Stack Developer](https://i.ibb.co/qyCCBkp/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 Backend-Focused Full Stack Developer
 
