@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Md Sirajul Munir
-#### I am a Full Stack Developer
+#### Backend-Focused Full Stack Developer
 ![I am a MERN Stack Developer](https://i.ibb.co/qyCCBkp/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 Backend-Focused Full Stack Developer
@@ -26,8 +26,6 @@ Open to Backend Developer opportunities.
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn" width="60" height="60" />
 </p>
 
-
-- 🌱 I’m currently learning Docker
 - 💬 Ask me about React NextJS NodeJs ExpressJs Mongodb JavaScript Typescript Postgres Prisma MySQL
 
 
