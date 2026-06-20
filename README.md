@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Md Sirajul Munir
 #### Backend-Focused Full Stack Developer
-![Backend-Focused Full Stack Developer](https://i.ibb.co/qyCCBkp/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![Backend-Focused Full Stack Developer](https://i.ibb.co.com/jPrMSjBs/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 ⚡ Node.js | NestJS | TypeScript | PostgreSQL | Prisma | Redis | Docker | React | Nextjs
 
