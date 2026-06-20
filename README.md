@@ -2,9 +2,13 @@
 #### I am a Full Stack Developer
 ![I am a MERN Stack Developer](https://i.ibb.co/qyCCBkp/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
-I am a Jr. Full Stack Developer. I have learned Web technologies like React, Next JS, Express JS, Nodejs, JavaScript, Typescript, MongoDb, Mongoose, Postgres, Prisma, MySQL Redux, RTK Query, HTML5, CSS3, Tailwind CSS, Bootstrap, JWT, Axios Interceptor, Firebase, REST APIs, Expertise With Popular NPM Packages, MaterialUI, Ant-Design, ShadcnUI, Figma, Vercel, Netlify, cpanel etc. I have also good knowledge about Version control (Git), IT fundamentals.
+Backend-Focused Full Stack Developer
 
-The main area of my interest lies in Web-developing to build my career as good web-developer. I am always looking for new challenges and opportunities to develop my skills and knowledge. I am excited to see where my passion for Web development will take me.
+⚡ Node.js | NestJS | TypeScript | PostgreSQL | Prisma | Redis | Docker
+
+2+ year of professional experience building scalable APIs and web applications. Passionate about backend engineering, clean architecture, and system design.
+
+Open to Backend Developer opportunities.
 
 <h2>🚀 My Skills</h2>
 <p align="left">
